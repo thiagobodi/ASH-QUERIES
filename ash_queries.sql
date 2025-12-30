@@ -1,4 +1,5 @@
 /* 
+Author: Thiago Cursi Gil Bodi - 30-12-2025
 Parameters:
 sql_id -> sqlid of an identified query to check
 begin_time -> initial time of the interval to be checked in dd-mm-yyyy hh24:mi:ss format, eg: 23-11-2020 05:15:15
